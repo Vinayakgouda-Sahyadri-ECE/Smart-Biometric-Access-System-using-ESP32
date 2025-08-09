@@ -68,6 +68,6 @@ Designed with a focus on **automation**, **data security**, and **IoT-based acce
 - View logs in chronological order
 - Logout option for session security
 
----
+
 
 
